@@ -18,20 +18,20 @@ h1 {
     border-width: 5px;
     border-left-width: 10px;
     border-right-width: 10px;
-    border-color: yellow;
+    border-color: blue;
     margin: 0px;
     text-align: center;
-    color: rgb(255,255,170);
+    color: rgb(0,255,175);
 }
 
  /* unvisited link */
 a:link {
-  color: rgb(0,200,0);
+  color: rgb(75,255,200);
 }
 
 /* visited link */
 a:visited {
-  color: green;
+  color: rgb(0, 255, 175);
 }
 
 /* mouse over link */
