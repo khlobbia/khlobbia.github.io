@@ -53,4 +53,7 @@ div, iframe {
 iframe {
     display: block;
     border-style:none;
+    align-content: center;
+    align-items: center;
+    align-self: center;
 }
