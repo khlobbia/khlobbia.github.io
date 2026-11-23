@@ -10,11 +10,13 @@ body {
   margin:0px;*/
   text-align: center;
   /*max-width: 75%; */
+    max-width: 1000px;
 }
 
 h1 {
     /*font-size: 100px;
     border-style: dashed;*/
+    border-style: double;
     border-width: 5px;
     border-left-width: 10px;
     border-right-width: 10px;
