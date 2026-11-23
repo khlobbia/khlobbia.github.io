@@ -11,5 +11,5 @@
         |
         <a href="/about">About</a>
     </small>
-</div>
+    </div>
 </body>
